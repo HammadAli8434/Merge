@@ -1,6 +1,8 @@
 [
     {
         name: "hammad",
-        name: "osaid"
+        name: "osaid",
+        name: "huzaifa"
     }
 ]
+
